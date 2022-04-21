@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NameGeneratorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-21T19:27:41" hostname="MACBOOKPROA1398s-MacBook-Pro.local" time="0.026">
+  <properties/>
+  <testcase name="modelName()" classname="NameGeneratorTest" time="0.022"/>
+  <testcase name="layoutName()" classname="NameGeneratorTest" time="0.001"/>
+  <testcase name="controllerName()" classname="NameGeneratorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
